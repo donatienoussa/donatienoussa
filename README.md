@@ -8,7 +8,7 @@ Bonjour. Je suis Donatien OUSSA 👋
     * React
     * Next.js
     * Node.js 
-    * Flutter
+    * React Native
     * Python
     
           

@@ -14,4 +14,3 @@ Bonjour. Je suis Donatien OUSSA 👋
           
 * 👯 J'aime travailler en équipe. Laissez-moi un message si ça vous tente.
 * 💬 Pour me contacter, écrivez moi sur: donatienoussaodb@gmail.com
-* 😄 Bye

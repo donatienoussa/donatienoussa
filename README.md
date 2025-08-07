@@ -26,4 +26,4 @@ Au besoin, je m’appuie sur **Next.js** pour concevoir des dashbords, sécuris�
 Je suis passionné par les projets à impact, notamment en **éducation**, **entrepreneuriat**, **communication** et **services numériques innovants**.
 Discutons de votre application mobile !
 
-Contact : [donatienoussaodb@gmail.com](mailto:donatienoussaodb@gmail.com)
+Contact : [donatienoussaodb@gmail.com](mailto:notjustcoding6@gmail.com)

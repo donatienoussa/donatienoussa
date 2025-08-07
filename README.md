@@ -1,29 +1,29 @@
-### 👋 Salut, moi c’est Donatien OUSSA
+### Salut, moi c’est Donatien OUSSA
 
-💻 **Développeur fullstack web & mobile**, passionné par les technologies **3D**, l’**IA appliquée**, et le **Web3**.
-Je conçois des applications modernes, performantes et centrées utilisateur, que ce soit pour le web, le mobile ou la blockchain.
+**Développeur mobile fullstack**, spécialisé en **React Native** et **Nestjs** pour le développement d'applications performantes et modernes.
+J’intègre des **fonctionnalités d’intelligence artificielle** (génération de contenu, chatbots, automatisation) pour enrichir l’expérience utilisateur.
+Au besoin, je m’appuie sur **Next.js** pour concevoir des dashbords, sécurisés et évolutifs pour mes applications.
 
----
 
-### 🚀 Ce que je fais
+### Ce que je fais
 
-* 🌐 Développement **frontend & mobile** : React · Next.js · React Native · TailwindCSS
-* 🛠️ Développement **backend** : Symfony <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" /> · Node.js · API REST / GraphQL
-* 🧠 **IA appliquée** : Python · OpenAI API · LangChain
-* 🔐 **Développement Web3** : Solidity · WalletConnect · Ethereum
-* ⚙️ **Outils & DevOps** : Git · Supabase · Docker · Figma · Notion
+* **Développement mobile** : React Native (Expo) · NativeWind · Monorepos
+* **Backend API & architecture** : NestJS · PostgreSQL
+* **Dashbord Admin** : NextJS · Tailwindcss 
+* **Intégration d’IA** : OpenAI API · LangChain · Python
+* **UI/UX & outils** : Figma · Notion · Git 
 
----
 
-### 🌱 Je travaille actuellement sur
+### Je travaille actuellement sur
 
-* 📱 Une app mobile de génération de contenu IA (Aora)
-* 💬 Une messagerie sécurisée avec chiffrement bout-à-bout
-* ⚡ Des projets de décentralisation (DApps) pour l’Afrique francophone
+* **FoiQuiz** – App mobile de QCM pour l'église La Foi apostolique
+* **Sypacom'** – Application de cros-post sur les réseaux sociaux
+* **DApps mobiles** pour l’Afrique francophone (paiement, finance, e-commerce décentralisé)
 
----
 
-### 🤝 Travaillons ensemble
+### Travaillons ensemble
 
-J’adore collaborer sur des projets à impact, en solo ou en équipe.
-📩 **Contact :** [donatienoussaodb@gmail.com](mailto:donatienoussaodb@gmail.com)
+Je suis passionné par les projets à impact, notamment en **éducation**, **entrepreneuriat**, **communication** et **services numériques innovants**.
+Discutons de votre application mobile !
+
+Contact : [donatienoussaodb@gmail.com](mailto:donatienoussaodb@gmail.com)

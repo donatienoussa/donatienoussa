@@ -1,71 +1,73 @@
-# Presentation  
-**Donatien Oussa | Intelligent Applications Developer**
+# Presentation
 
----
+**Donatien Oussa | Mobile Application Developer**
 
-## 1. Who am I?  
-I’m a freelance web and mobile developer specializing in the creation of **FinTech**, **E-Commerce**, and **AI-powered applications**.  
-I help startups, SMEs, and entrepreneurs transform their ideas into high-performance, scalable, and elegant digital products.  
 
-My approach combines technology, user-centered design, and strategic product thinking to deliver applications that captivate users and support sustainable business growth.
+## 1. About Me
 
----
+I’m a **mobile application developer** specializing in the design and development of **high-quality, scalable, and secure mobile apps**.
 
-## 2. Technical Expertise  
-I work with a **modern, consistent, and fully mastered tech stack** to build reliable, scalable, and well-documented solutions:
+I help **startups, SMEs, and entrepreneurs** transform their ideas into reliable mobile applications, from MVP to production-ready solutions.
 
-- **React Native (Expo)** → Cross-platform mobile app development (iOS & Android) that’s fast and maintainable  
-- **Next.js** → Building performant websites, dashboards, and admin interfaces  
-- **NestJS, Supabase, Appwrite, Strapi, Firebase** → Creating robust, secure, and scalable backends  
-- **TailwindCSS & NativeWind** → Delivering clean, responsive, and cohesive design across all platforms  
-- **OpenAI, LangChain, Hugging Face, Vector DBs** → Integrating AI features such as intelligent assistants, semantic search, and text/image generation  
+My approach combines **clean architecture, performance optimization, and user-focused design** to deliver applications that are maintainable and built to scale.
 
-Each technology is carefully selected to ensure **performance, reusability, and maintainability**, with smooth front-to-back integration.
 
----
+## 2. Technical Expertise
 
-## 3. My Services  
-I design **custom digital solutions** built to grow with your business and user needs:
+I build mobile applications using a **modern, proven, and production-ready stack**:
 
-- Web and mobile application development  
-- Rapid MVP creation for FinTech and E-Commerce startups  
-- Secure payment integrations (mobile money, cards, crypto)  
-- Embedded AI features (chatbots, smart analytics, semantic search)  
-- Full deployment, hosting, and technical maintenance  
+* **React Native (Expo)** → Cross-platform mobile development (iOS & Android)
+* **Flutter** → High-performance native-like mobile applications
+* **NestJS** → Scalable and secure backend APIs for mobile apps
+* **Firebase** → Authentication, databases, cloud functions, and real-time features
+* **Supabase & Appwrite** → Backend services and data management
+* **TailwindCSS & NativeWind** → Clean, consistent, and responsive mobile UI
 
-Every project is **cleanly documented, well-structured, and easily transferable** to your internal teams.
+Each technology is chosen to ensure **performance, stability, and long-term maintainability**.
 
----
 
-## 4. Who I Work With  
+## 3. Services
+
+I design and develop **mobile-first solutions** tailored to real business needs:
+
+* Mobile application development (Android & iOS)
+* MVP development for mobile startups
+* Secure authentication and user management
+* Payment integrations (Mobile Money, cards, APIs)
+* Backend API design and integration
+* App deployment and maintenance
+
+All projects are delivered with **clean code, clear documentation, and scalable architecture**.
+
+
+## 4. Who I Work With
+
 I collaborate with:
 
-- **FinTech, AI, and E-Commerce startups** aiming to launch reliable, scalable products  
-- **SMEs and freelancers** seeking modern, cost-effective digital solutions  
-- **Tech entrepreneurs** looking for an autonomous and committed development partner  
-- **NGOs, institutions, and communities** wishing to integrate intelligent systems into their services  
+* **Startups** building mobile products
+* **SMEs and entrepreneurs** launching or improving mobile apps
+* **Product owners** seeking a reliable and autonomous mobile developer
 
----
 
-## 5. Why Work With Me  
-- Clear specialization: **FinTech, E-Commerce & Artificial Intelligence**  
-- Modern, industry-proven tech stack: **React Native, Next.js, NestJS, Supabase, OpenAI**  
-- Strong focus on **security, performance, and scalability**  
-- Seamless **AI integration** for high-value applications  
-- **Fast, structured, and fully documented deliveries**  
-- Strategic guidance from concept to production  
+## 5. Why Work With Me
 
----
+* Strong specialization in **mobile application development**
+* Mastery of **React Native, Flutter, and modern backend tools**
+* Focus on **performance, security, and scalability**
+* Clean architecture and maintainable codebases
+* Clear communication and structured delivery
+  
 
-## 6. My Promise  
-I don’t just build applications.  
-I design **intelligent, elegant, and scalable systems** that address your business challenges, optimize your processes, and deliver real user experiences.  
+## 6. My Commitment
 
-Each project is treated as a **sustainable digital asset** — well-documented, maintainable, and ready to evolve with your company.
+I don’t just build mobile apps.
+I deliver **robust, scalable, and well-structured mobile applications** designed to grow with your product and users.
 
----
+Each project is treated as a **long-term mobile product**, not just a one-time delivery.
 
-## 7. Contact  
-📧 **Email:** notjustcoding6@gmail.com  
-🌐 **Portfolio:** [notjustcoding.dev.vercel.app](https://notjustcoding.dev.vercel.app)  
+
+## 7. Contact
+
+📧 **Email:** [donatienoussaodb@gmail.com](mailto:donatienoussaodb@gmail.com)
+🌐 **Portfolio:** [https://oussa-donatien.vercel.app](https://oussa-donatien.vercel.app)
 📱 **WhatsApp:** (+229) 01 62 14 02 34

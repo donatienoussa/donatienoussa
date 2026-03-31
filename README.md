@@ -2,7 +2,7 @@
 
 **Donatien Oussa | Frontend Engineer**
 
----
+
 
 ## 1. About Me
 
@@ -12,7 +12,7 @@ I help **startups, SMEs, and product teams** transform their ideas into reliable
 
 My approach combines **clean architecture, performance optimization, and modern UI development** to deliver applications that are maintainable and built to scale.
 
----
+
 
 ## 2. Technical Expertise
 
@@ -27,7 +27,7 @@ I build web applications using a **modern, proven, and production-ready frontend
 
 Each technology is chosen to ensure **performance, scalability, and long-term maintainability**.
 
----
+
 
 ## 3. Services
 
@@ -42,7 +42,7 @@ I design and develop **frontend solutions** tailored to real product needs:
 
 All projects are delivered with **clean code, clear structure, and scalable architecture**.
 
----
+
 
 ## 4. Who I Work With
 
@@ -52,7 +52,7 @@ I collaborate with:
 - **SMEs and entrepreneurs** launching or improving web applications  
 - **Product teams** looking for a reliable frontend engineer  
 
----
+
 
 ## 5. Why Work With Me
 
@@ -62,7 +62,7 @@ I collaborate with:
 - Clean architecture and structured codebases  
 - Clear communication and efficient delivery  
 
----
+
 
 ## 6. My Commitment
 
@@ -71,7 +71,7 @@ I deliver **robust, scalable, and well-structured frontend applications** design
 
 Each project is treated as a **long-term product**, not just a one-time delivery.
 
----
+
 
 ## 7. Contact
 

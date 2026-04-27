@@ -1,80 +1,89 @@
-# Presentation
-
-**Donatien Oussa | Frontend Engineer**
-
-
+## **Donatien Oussa | Senior Full-Stack Engineer**
 
 ## 1. About Me
 
-I’m a **Frontend Engineer** specializing in the design and development of **high-performance, scalable, and user-focused web applications**.
+I’m a **Senior Full-Stack Engineer** specialized in building **scalable, high-performance, and production-ready web applications**.
 
-I help **startups, SMEs, and product teams** transform their ideas into reliable web applications, from MVP to production-ready solutions.
+I help **startups, SMEs, and product teams** design and develop complete digital products — from **MVP to fully scalable systems**.
 
-My approach combines **clean architecture, performance optimization, and modern UI development** to deliver applications that are maintainable and built to scale.
-
+My expertise spans both **frontend and backend**, allowing me to deliver **end-to-end solutions** with strong architecture, performance, and long-term maintainability.
 
 
 ## 2. Technical Expertise
 
-I build web applications using a **modern, proven, and production-ready frontend stack**:
+I design and build applications using a **modern, scalable, and production-grade stack**:
 
-- **React & Next.js** → Modern web applications (SSR, performance, scalability)  
-- **Angular** → Structured and enterprise-grade frontend applications  
-- **TypeScript** → Type-safe and maintainable codebases  
-- **Zustand & TanStack Query** → Efficient state and server-state management  
-- **Supabase & Firebase** → API integration and backend services  
-- **Tailwind CSS** → Clean, consistent, and responsive UI  
+### Frontend
 
-Each technology is chosen to ensure **performance, scalability, and long-term maintainability**.
+* **React & Next.js** → High-performance web apps (SSR, SEO, scalability)
+* **Angular** → Enterprise-grade structured applications
+* **TypeScript** → Robust, maintainable codebases
+* **Zustand & TanStack Query** → Scalable state management
 
+### Backend
+
+* **Spring Boot** → Robust and scalable APIs
+* **Laravel** → Fast and efficient backend systems
+* **REST API Design** → Secure and scalable architectures
+
+### Data & Infrastructure
+
+* **PostgreSQL & MySQL** → Reliable data management
+* **Docker** → Containerization and deployment
+* **Vercel & Cloud Platforms** → Production deployment
+
+Each technology is selected to ensure **scalability, performance, and reliability in production environments**.
 
 
 ## 3. Services
 
-I design and develop **frontend solutions** tailored to real product needs:
+I build **complete web applications and scalable systems**, not just interfaces:
 
-- Web application development (React / Next.js / Angular)  
-- Frontend architecture and scalable codebases  
-- API integration (REST, Supabase, Firebase)  
-- Performance optimization (loading, rendering, UX)  
-- UI implementation from Figma designs  
-- Deployment and production setup (Vercel)  
+* Full-stack web application development
+* Frontend architecture (React, Next.js, Angular)
+* Backend development (Spring Boot, Laravel)
+* API design and integration
+* Performance optimization (frontend & backend)
+* Scalable system architecture
+* Deployment and DevOps setup (Docker, Cloud)
 
-All projects are delivered with **clean code, clear structure, and scalable architecture**.
-
+All solutions are delivered with **clean architecture, strong structure, and production readiness**.
 
 
 ## 4. Who I Work With
 
 I collaborate with:
 
-- **Startups** building modern web products  
-- **SMEs and entrepreneurs** launching or improving web applications  
-- **Product teams** looking for a reliable frontend engineer  
-
+* **Startups** building digital products
+* **SMEs** scaling their operations through technology
+* **Product teams** needing a reliable senior engineer
+* **Entrepreneurs** launching MVPs and platforms
 
 
 ## 5. Why Work With Me
 
-- Strong specialization in **frontend engineering**  
-- Mastery of **React, Next.js, Angular, and modern tooling**  
-- Focus on **performance, scalability, and maintainability**  
-- Clean architecture and structured codebases  
-- Clear communication and efficient delivery  
+* Full-stack expertise (**frontend + backend**)
+* Strong experience with **modern production stacks**
+* Focus on **scalability, performance, and reliability**
+* Clean, maintainable, and structured code
+* Ability to **think product, not just code**
+* Clear communication and efficient execution
 
 
+## 6. My Approach
 
-## 6. My Commitment
+I don’t just write code.
 
-I don’t just build interfaces.  
-I deliver **robust, scalable, and well-structured frontend applications** designed to grow with your product.
+I design **systems that scale**,
+build **products that perform**,
+and deliver **solutions that last**.
 
-Each project is treated as a **long-term product**, not just a one-time delivery.
-
+Every project is approached as a **real product with long-term impact**, not just a delivery.
 
 
 ## 7. Contact
 
-- 📧 **Email:** donatienoussaodb@gmail.com  
-- 🌐 **Portfolio:** https://donatien-oussa.vercel.app  
-- 📱 **WhatsApp:** (+229) 01 62 14 02 34  
+* 📧 Email: [donatienoussaodb@gmail.com](mailto:donatienoussaodb@gmail.com)
+* 🌐 Portfolio: [https://donatien-oussa.vercel.app](https://donatien-oussa.vercel.app)
+* 📱 WhatsApp: (+229) 01 62 14 02 34
+

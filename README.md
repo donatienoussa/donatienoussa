@@ -1,89 +1,141 @@
-## **Donatien Oussa | Senior Full-Stack Engineer**
+# Donatien OUSSA | Full-Stack Developer — Web • Mobile • AI
 
-## 1. About Me
+## 👋 About Me
 
-I’m a **Senior Full-Stack Engineer** specialized in building **scalable, high-performance, and production-ready web applications**.
+I'm a **Full-Stack Developer** specialized in designing and building modern **Web and Mobile applications** enhanced with **Artificial Intelligence**.
 
-I help **startups, SMEs, and product teams** design and develop complete digital products — from **MVP to fully scalable systems**.
+I help startups, SMEs, and organizations transform ideas into scalable digital products by developing secure APIs, intuitive user experiences, and intelligent features powered by AI.
 
-My expertise spans both **frontend and backend**, allowing me to deliver **end-to-end solutions** with strong architecture, performance, and long-term maintainability.
+From backend architecture to responsive web applications, cross-platform mobile apps, and AI integration, I build reliable, scalable, and production-ready solutions.
 
+---
 
-## 2. Technical Expertise
+# 🚀 Technical Expertise
 
-I design and build applications using a **modern, scalable, and production-grade stack**:
+## 🌐 Web Development
 
-### Frontend
+- Laravel
+- Next.js
+- Angular
+- React
+- TypeScript
+- Tailwind CSS
 
-* **React & Next.js** → High-performance web apps (SSR, SEO, scalability)
-* **Angular** → Enterprise-grade structured applications
-* **TypeScript** → Robust, maintainable codebases
-* **Zustand & TanStack Query** → Scalable state management
+## 📱 Mobile Development
 
-### Backend
+- Flutter
+- REST API Integration
 
-* **Spring Boot** → Robust and scalable APIs
-* **Laravel** → Fast and efficient backend systems
-* **REST API Design** → Secure and scalable architectures
+## 🤖 Artificial Intelligence
 
-### Data & Infrastructure
+- OpenAI API
+- Hugging Face
+- LLM Integration
+- RAG (Retrieval-Augmented Generation)
+- Prompt Engineering
 
-* **PostgreSQL & MySQL** → Reliable data management
-* **Docker** → Containerization and deployment
-* **Vercel & Cloud Platforms** → Production deployment
+## ⚙️ Backend & Infrastructure
 
-Each technology is selected to ensure **scalability, performance, and reliability in production environments**.
+- Laravel
+- REST API Design
+- MySQL
+- PostgreSQL
+- Docker
+- Git & GitHub
+- Vercel
 
+## 🧩 Frontend Architecture
 
-## 3. Services
+- Zustand
+- TanStack Query
+- Responsive UI
+- Performance Optimization
 
-I build **complete web applications and scalable systems**, not just interfaces:
+---
 
-* Full-stack web application development
-* Frontend architecture (React, Next.js, Angular)
-* Backend development (Spring Boot, Laravel)
-* API design and integration
-* Performance optimization (frontend & backend)
-* Scalable system architecture
-* Deployment and DevOps setup (Docker, Cloud)
+# 💼 Services
 
-All solutions are delivered with **clean architecture, strong structure, and production readiness**.
+I build complete digital products from idea to deployment.
 
+### Web Development
 
-## 4. Who I Work With
+- Custom web applications
+- Enterprise platforms
+- SaaS products
+- Admin dashboards
+
+### Mobile Development
+
+- Cross-platform mobile applications with Flutter
+- API integration
+- Performance optimization
+
+### AI Solutions
+
+- AI-powered features
+- Chatbots & AI assistants
+- LLM integration
+- Intelligent document processing
+- Workflow automation
+
+### Backend Development
+
+- REST API development
+- Authentication & authorization
+- Database design
+- Business logic implementation
+
+### Deployment
+
+- Docker
+- Vercel
+- Cloud deployment
+- Production optimization
+
+---
+
+# 🤝 Who I Work With
 
 I collaborate with:
 
-* **Startups** building digital products
-* **SMEs** scaling their operations through technology
-* **Product teams** needing a reliable senior engineer
-* **Entrepreneurs** launching MVPs and platforms
+- Startups building innovative products
+- SMEs accelerating their digital transformation
+- Product teams looking for a reliable Full-Stack developer
+- Entrepreneurs launching MVPs and scalable platforms
 
+---
 
-## 5. Why Work With Me
+# ⭐ Why Work With Me
 
-* Full-stack expertise (**frontend + backend**)
-* Strong experience with **modern production stacks**
-* Focus on **scalability, performance, and reliability**
-* Clean, maintainable, and structured code
-* Ability to **think product, not just code**
-* Clear communication and efficient execution
+- Full-Stack expertise (Web + Mobile)
+- AI integration into modern applications
+- Clean and scalable architecture
+- Secure REST APIs
+- Performance-first development
+- Maintainable and well-structured code
+- Agile mindset
+- Strong focus on product quality
 
+---
 
-## 6. My Approach
+# 💡 My Approach
 
-I don’t just write code.
+I don't just write code.
 
-I design **systems that scale**,
-build **products that perform**,
-and deliver **solutions that last**.
+I design digital products that are:
 
-Every project is approached as a **real product with long-term impact**, not just a delivery.
+- Scalable
+- Secure
+- Performant
+- Maintainable
+- AI-enabled
 
+Every project is built with long-term evolution, user experience, and business value in mind.
 
-## 7. Contact
+---
 
-* 📧 Email: [donatienoussaodb@gmail.com](mailto:donatienoussaodb@gmail.com)
-* 🌐 Portfolio: [https://donatien-oussa.vercel.app](https://donatien-oussa.vercel.app)
-* 📱 WhatsApp: (+229) 01 62 14 02 34
+# 📫 Contact
 
+- 📧 Email: **donatienoussaodb@gmail.com**
+- 🌐 Portfolio: **https://oussa-donatien.dev**
+- 📱 WhatsApp: **(+229) 01 62 14 02 34**

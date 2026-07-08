@@ -8,7 +8,7 @@ I help startups, SMEs, and organizations transform ideas into scalable digital p
 
 From backend architecture to responsive web applications, cross-platform mobile apps, and AI integration, I build reliable, scalable, and production-ready solutions.
 
----
+
 
 # 🚀 Technical Expertise
 
@@ -51,7 +51,7 @@ From backend architecture to responsive web applications, cross-platform mobile 
 - Responsive UI
 - Performance Optimization
 
----
+
 
 # 💼 Services
 
@@ -92,7 +92,7 @@ I build complete digital products from idea to deployment.
 - Cloud deployment
 - Production optimization
 
----
+
 
 # 🤝 Who I Work With
 
@@ -103,7 +103,7 @@ I collaborate with:
 - Product teams looking for a reliable Full-Stack developer
 - Entrepreneurs launching MVPs and scalable platforms
 
----
+
 
 # ⭐ Why Work With Me
 
@@ -116,7 +116,7 @@ I collaborate with:
 - Agile mindset
 - Strong focus on product quality
 
----
+
 
 # 💡 My Approach
 
@@ -132,7 +132,7 @@ I design digital products that are:
 
 Every project is built with long-term evolution, user experience, and business value in mind.
 
----
+
 
 # 📫 Contact
 
